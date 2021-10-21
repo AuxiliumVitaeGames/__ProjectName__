@@ -1,0 +1,9 @@
+[submodule "External/UnrealEngine"]
+	path = External/UnrealEngine
+	url = https://github.com/EpicGames/UnrealEngine.git
+	branch = ue5-early-access
+
+[submodule "Project"]
+	path = Project
+	url = https://github.com/AuxiliumVitaeGames/__UEProjectName__.git
+	branch = master
